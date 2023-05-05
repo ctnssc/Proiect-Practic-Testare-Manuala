@@ -32,7 +32,7 @@ dddddd
 ![test img](https://github.com/ctnssc/Proiect-Practic-Testare-Manuala/blob/main/Screenshot%202023-05-05%20at%2019.31.38.png?raw=true "descriere")
 [Screenshot 2023-05-05 at 19 31 38](https://user-images.githubusercontent.com/127977552/236520705-56c2d250-88f4-43a6-a77f-aab912b7c9b1.png)
 
-- [ ] task1
+- [x] task1
 - [ ] task2
 
 
