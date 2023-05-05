@@ -29,4 +29,4 @@ bbbbbb
 dddddd
 
 
-![test img](https://github.com/ctnssc/Proiect-Practic-Testare-Manuala/blob/main/Screenshot%202023-05-05%20at%2019.31.38.png?raw=true)
+![test img](https://github.com/ctnssc/Proiect-Practic-Testare-Manuala/blob/main/Screenshot%202023-05-05%20at%2019.31.38.png?raw=true "descriere")
