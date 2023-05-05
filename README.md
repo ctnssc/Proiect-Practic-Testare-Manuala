@@ -1,5 +1,11 @@
-<h3>Final project for ITF Manual Testing Course</h3>
 
 
-<b>test</b> <br>
-<i>test</i>
+### Final project for ITF Manual Testing Course
+
+**paragraf 1**
+
+*paragraf 2*
+
+paragraf 3
+
+Test link [Google]( https://google.com)
