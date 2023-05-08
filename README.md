@@ -64,6 +64,10 @@
   |Product owner|Popescu Ion|
   |Software Developer|Popescu Maria|
   |Tester|Tanasescu Cristian|
+  
+  - Entry criteria:                
+  - Exit crtieria:
+  - Risks:
 
   ### 2.2 Test analysis ###
 
