@@ -58,6 +58,12 @@ The below user story was created in JIRA and describes functional specifications
 ***!!!!!!!!!!!!!!!!Screenshots din Jira cu user story-ul***
 
    ### 1.3 Functionalities and tests out of scope ###
+   
+- Non-functional testing like stress, performance is beyond scope of this project.
+- No QA support for mobile applications developed. Only web applications will be tested.
+- Automation testing is beyond scope.
+- Compatibility testing with multiple browsers is beyond scope.
+   
 # 2. Test process #
 
   ### 2.1 Test planning ###
