@@ -91,7 +91,7 @@
 
 - **Risks detected**
 
-                  -Project risks: lack of experience of QA team, lack of tools, short deadline for Jira and Zephyr Squad, unavailability of Opencart demo environment
+                  -Project risks: lack of experience of QA team, lack of tools, short deadline for Jira and Zephyr Squad trial, unavailability of Opencart demo environment
 
                   -Product risks: Validation constraints on the fields might be too restrictive to the end user 
 
