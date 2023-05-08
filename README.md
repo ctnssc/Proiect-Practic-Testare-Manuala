@@ -68,6 +68,7 @@
                   - Regression testing have been ran and no major bugs detected                    
                   - All business requirements have been covered by test cases                   
                   - All business requirements have been met 
+                  - The evaluated levels of reliability, performance efficiency, usability, security, and other relevant quality characteristics are sufficient
 
 - **Risks detected**
 
