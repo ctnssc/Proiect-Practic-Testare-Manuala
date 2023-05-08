@@ -6,45 +6,42 @@
 |---|---|---|---|
 |29.04.2023|v1.0|Cristian TANASESCU||
 
+1. Introduction
+         
+        1.1	Project objective
 
-1.	Introduction
+        1.2	Functionalities in scope
 
-1.1	Project objective
+        1.3	Functionalities and tests out of scope
+2. Test process
 
-1.2	Functionalities in scope
+        2.1	Test planning
 
-1.3	Functionalities and tests out of scope
+        2.2	Test analysis
 
-2.	Test process
+        2.3	Test design
 
-2.1	Test planning
+        2.4	Test implementation
 
-2.2	Test analysis
+        2.5	Test execution
 
-2.3	Test design
+        2.6	Test closure
 
-2.4	Test implementation
+        2.7	Test monitoring and control
+3.Test deliverables
 
-2.5	Test execution
+        3.1	Test plan
 
-2.6	Test closure
+        3.2	Test conditions
 
-2.7	Test monitoring and control
+        3.3	Test cases
 
-3.	Test deliverables
+        3.4	Daily test summary reports
 
-3.1	Test plan
+        3.5	Traceability matrix
 
-3.2	Test conditions
+        3.6	Test case results
 
-3.3	Test cases
+        3.7	Bugs report
 
-3.4	Daily test summary reports
-
-3.5	Traceability matrix
-
-3.6	Test case results
-
-3.7	Bugs report
-
-3.8	Test completion report
+        3.8	Test completion report
