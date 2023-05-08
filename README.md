@@ -102,11 +102,25 @@ The below user story was created in JIRA and describes functional specifications
 
 
   ### 2.2 Test analysis ###
+  
+Analyze the business requirements to make sure that we have all the details to identify testable features and create the test conditions. 
+Write test conditions that will be tested in out test process. 
+
 
   ### 2.3 Test design ###
 
+Test cases will be designed and prioritized. Functional test cases will be created in Jira alongside GUI test cases. API test case will be created in Postman and the DB queries will be done in MySQL.
+
   ### 2.4 Test implementation ###
 
+Verify if the following elements are ready before test execution:
+-	Test environment is up and running: https://demo.opencart.com
+-	Access to test environment is given
+-	Cycle summary was created 
+-	Test cases were added to the cycle summary 
+-	Postman collection with the API methods was created 
+-	Authorization token was created accessing the API and it is valid 
+  
   ### 2.5 Test execution ###
 
   ### 2.6 Test closure ###
