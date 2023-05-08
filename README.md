@@ -101,7 +101,7 @@ The below user story was created in JIRA and describes functional specifications
                   -Product risks: Validation constraints on the fields might be too restrictive to the end user 
 
 
-  ### 2.2 Test analysis ###
+ ### 2.2 Test analysis ###
   
 Analyze the business requirements to make sure that we have all the details to identify testable features and create the test conditions. 
 Write test conditions that will be tested in out test process. 
@@ -123,12 +123,27 @@ Verify if the following elements are ready before test execution:
   
   ### 2.5 Test execution ###
 
+-	Test cases are executed on the created cycle summary 
+-	Bugs have been created based on the failed test cases. The complete bug reports can be found here: *se poate pune link catre un fisier cu bug reports in Github 
+-	API tests are executed based on the checklist (requirements)
+-	Full regression pack is executed after changes made to the application 
+
   ### 2.6 Test closure ###
 
+-	All exit criteria were met as mentioned in the Test Planning section (2.1)
+-	The traceability matrix was generated to demonstrate the business requirements coverage
+-	Test execution chart was generated, the final report shows a number of 3 failed test cases of a total 30
+-	There are still 3 opened defects but they have low priority
+
   ### 2.7 Test monitoring and control ###
+  
+  Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
+
 # 3. Test deliverables #
 
   ### 3.1 Test plan ###
+
+The plan identifies the items to be tested, the features to be tested, the type of testing to be performe, the roles and responsibilities for the testing process, the resources and schedule required to complete testing and the risks associated with the plan. 
 
   ### 3.2 Test conditions ###
 
