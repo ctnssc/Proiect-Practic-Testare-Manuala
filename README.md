@@ -1,38 +1,41 @@
+1.	Introduction
 
+1.1	Project objective
 
-### Final project for ITF Manual Testing Course
+1.2	Functionalities in scope
 
-**paragraf 1**
+1.3	Functionalities and tests out of scope
 
-*paragraf 2*
+2.	Test process
 
-    1. aaa
-    2. bbb
-    3. ccc
-        1.1 1111
-        1.2 1111
+2.1	Test planning
 
-Test link [Google]( https://google.com "google")
+2.2	Test analysis
 
+2.3	Test design
 
-| ROL  | NAME  | bbbb |
-|:---|:---:|---:|
-| Product Owner | Nume | fff |
-| Normal Key | Value2 |
-| Normal Key | Value2 |
+2.4	Test implementation
 
-aaaaaaaa
+2.5	Test execution
 
-bbbbbb
+2.6	Test closure
 
-        > cccccc
-dddddd
+2.7	Test monitoring and control
 
+3.	Test deliverables
 
-![test img](https://github.com/ctnssc/Proiect-Practic-Testare-Manuala/blob/main/Screenshot%202023-05-05%20at%2019.31.38.png?raw=true "descriere")
-[Screenshot 2023-05-05 at 19 31 38](https://user-images.githubusercontent.com/127977552/236520705-56c2d250-88f4-43a6-a77f-aab912b7c9b1.png)
+3.1	Test plan
 
-- [x] task1
-- [ ] task2
+3.2	Test conditions
 
+3.3	Test cases
 
+3.4	Daily test summary reports
+
+3.5	Traceability matrix
+
+3.6	Test case results
+
+3.7	Bugs report
+
+3.8	Test completion report
