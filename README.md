@@ -1,3 +1,12 @@
+# OPENCART Project - TEST PLAN
+
+
+**Revision History**
+|Date|Description|Author|Comments|
+|---|---|---|---|
+|29.04.2023|v1.0|Cristian TANASESCU||
+
+
 1.	Introduction
 
 1.1	Project objective
