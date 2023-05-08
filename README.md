@@ -41,7 +41,7 @@ OpenCart is free open source e-commerce platform for online merchants. OpenCart 
          
    ### 1.1 Project objective ###
    
-The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application. 
+The purpose of the final project for ITFactory Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application. 
 
 Application under test is https://demo.opencart.com/ and the focus will be only on **Browsing the Store Front**
 
