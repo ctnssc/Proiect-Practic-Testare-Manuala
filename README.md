@@ -51,6 +51,10 @@ Tools used: Jira, Postman, MySQL
 
 
    ### 1.2 Functionalities in scope ###
+   
+ Features of ***Browsing the Store Front*** section which were defined in business requirements that should be tested: functional testing, GUI testing and API testing 
+The below user story was created in JIRA and describes functional specifications of the Browsing the Store Front module.
+
 
    ### 1.3 Functionalities and tests out of scope ###
 # 2. Test process #
