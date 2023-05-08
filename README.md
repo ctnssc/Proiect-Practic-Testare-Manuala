@@ -57,6 +57,13 @@
 # 2. Test process #
 
   ### 2.1 Test planning ###
+  ****Roles and responsibilities****
+  
+  |Role|Name|
+  |---|---|
+  |Product owner|Popescu Ion|
+  |Software Developer|Popescu Maria|
+  |Tester|Tanasescu Cristian|
 
   ### 2.2 Test analysis ###
 
