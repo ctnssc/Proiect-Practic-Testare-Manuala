@@ -43,9 +43,9 @@ OpenCart is free open source e-commerce platform for online merchants. OpenCart 
    
 The purpose of the final project for ITFactory Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application. 
 
-Application under test is [OPENCART](https://demo.opencart.com/) and the focus will be only on ***Browsing the Store Front*** section.
+Application under test is [OPENCART](https://demo.opencart.com/) and the focus will be only on ***Admin Interface*** section.
 
-Application documentation: [https://docs.opencart.com/en-gb/store-front/](https://docs.opencart.com/en-gb/store-front/)
+Application documentation: [http://docs.opencart.com/en-gb/administration/](http://docs.opencart.com/en-gb/administration/)
 
 Tools used: Jira, Postman, MySQL 
 
@@ -53,7 +53,7 @@ Tools used: Jira, Postman, MySQL
    ### 1.2 Functionalities in scope ###
    
  Features of ***Browsing the Store Front*** section which were defined in business requirements that should be tested: functional testing, GUI testing and API testing 
-The below user story was created in JIRA and describes functional specifications of the Browsing the Store Front module.
+The below user story was created in JIRA and describes functional specifications of the ***Admin Interface***.
 
 ***!!!!!!!!!!!!!!!!Screenshots din Jira cu user story-ul***
 
@@ -114,7 +114,7 @@ Test cases will be designed and prioritized. Functional test cases will be creat
   ### 2.4 Test implementation ###
 
 Verify if the following elements are ready before test execution:
--	Test environment is up and running: https://demo.opencart.com
+-	Test environment is up and running: https://demo.opencart.com/admin/
 -	Access to test environment is given
 -	Cycle summary was created 
 -	Test cases were added to the cycle summary 
